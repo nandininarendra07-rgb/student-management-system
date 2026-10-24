@@ -9,5 +9,7 @@ if 0 <= marks <= 100:
     print("Register Number:", reg_no)
     print("Department:", department)
     print("Marks:", marks)
+    print("Student details feature completed")
 else:
     print("Invalid marks")
+    
